@@ -1,6 +1,7 @@
 # Project Tiket Wisata Kota Bogor
 
 ## Struktur Hierarki Project
+<pre>
 ├── api
 │   └── read_wisata.php
 ├── config
@@ -25,7 +26,7 @@
 ├── home.php
 ├── index.php
 └── pemesanan.php
-
+</pre>
 
 ## Tools 
 * Visual Studio code
